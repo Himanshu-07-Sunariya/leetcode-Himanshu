@@ -9,4 +9,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0039-combination-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/3310-remove-methods-from-project) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/3310-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
