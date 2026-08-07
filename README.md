@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0044-wildcard-matching) |
 | [0877-stone-game](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0877-stone-game) |
 ## Minimax
 |  |
@@ -44,4 +45,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0877-stone-game) |
+## String
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0044-wildcard-matching) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0044-wildcard-matching) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
