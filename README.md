@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0040-combination-sum-ii) |
 | [0877-stone-game](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0877-stone-game) |
 | [0997-find-the-town-judge](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0997-find-the-town-judge) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Backtracking
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-find-center-of-star-graph](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/1971-find-if-path-exists-in-graph) |
 | [3310-remove-methods-from-project](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/3310-remove-methods-from-project) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Math
 |  |
 | ------- |
@@ -71,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/1971-find-if-path-exists-in-graph) |
+## Matrix
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
