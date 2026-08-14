@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0040-combination-sum-ii) |
+| [0048-rotate-image](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0078-subsets) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0877-stone-game) |
 ## Dynamic Programming
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0073-set-matrix-zeroes) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Two Pointers
