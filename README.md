@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0040-combination-sum-ii) |
+| [0075-sort-colors](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0078-subsets) |
 | [0189-rotate-array](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0485-max-consecutive-ones) |
@@ -88,9 +89,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0189-rotate-array) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0078-subsets) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
