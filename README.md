@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0040-combination-sum-ii) |
 | [0075-sort-colors](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0078-subsets) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0485-max-consecutive-ones) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0044-wildcard-matching) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0877-stone-game) |
 ## Minimax
 |  |
