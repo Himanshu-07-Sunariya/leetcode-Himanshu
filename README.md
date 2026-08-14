@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0044-wildcard-matching) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Greedy
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0169-majority-element) |
 | [0997-find-the-town-judge](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0997-find-the-town-judge) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Union-Find
 |  |
 | ------- |
@@ -124,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0169-majority-element) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
