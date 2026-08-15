@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0048-rotate-image) |
+| [0056-merge-intervals](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0078-subsets) |
@@ -110,11 +111,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0169-majority-element) |
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0075-sort-colors) |
 ## Bubble Sort
 |  |
