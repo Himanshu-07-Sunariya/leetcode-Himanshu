@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0044-wildcard-matching) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0877-stone-game) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0044-wildcard-matching) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Greedy
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0005-longest-palindromic-substring) |
 | [0075-sort-colors](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0189-rotate-array) |
 ## Bit Manipulation
@@ -139,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
