@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0485-max-consecutive-ones) |
 | [0877-stone-game](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0877-stone-game) |
+| [0994-rotting-oranges](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0997-find-the-town-judge) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0994-rotting-oranges](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/1971-find-if-path-exists-in-graph) |
 | [3310-remove-methods-from-project](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0073-set-matrix-zeroes) |
+| [0994-rotting-oranges](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0994-rotting-oranges) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Two Pointers
 |  |
