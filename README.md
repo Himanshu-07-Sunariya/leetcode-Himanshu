@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0485-max-consecutive-ones) |
+| [0542-01-matrix](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0997-find-the-town-judge) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0542-01-matrix) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/1971-find-if-path-exists-in-graph) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0044-wildcard-matching) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0542-01-matrix](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0877-stone-game) |
 ## Minimax
 |  |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0073-set-matrix-zeroes) |
+| [0542-01-matrix](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0994-rotting-oranges) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Two Pointers
