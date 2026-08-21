@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0997-find-the-town-judge) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Backtracking
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0997-find-the-town-judge) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Union-Find
 |  |
 | ------- |
