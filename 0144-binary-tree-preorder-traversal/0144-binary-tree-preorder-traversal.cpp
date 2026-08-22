@@ -13,27 +13,35 @@ class Solution {
 public:
     vector<int> preorderTraversal(TreeNode* root) {
         if(!root) return {};
-
-        // iterative
-        stack <TreeNode*> st;
+        // morris preorder traversal
+        TreeNode* curr=root;
         vector <int> ans;
-        st.push(root);
 
-        while(!st.empty()){
-            // curr node
-            auto curr=st.top();
-            st.pop();
-
-            // main work
-            ans.push_back(curr->val);
-
-            // nbrs explore
-            if(curr->right){
-                st.push(curr->right);
+        while(curr!=NULL){
+            // main case
+            if(curr->left==NULL){
+                ans.push_back(curr->val);
+                curr=curr->right;
             }
+            else{
+                // predecessor
+                TreeNode* pred=curr->left;
 
-            if(curr->left){
-                st.push(curr->left);
+                while(pred->right!=NULL && pred->right!=curr){
+                    pred=pred->right;
+                }
+
+                // dhaaga jodo
+                if(pred->right==NULL){
+                    ans.push_back(curr->val);
+                    pred->right=curr;
+                    curr=curr->left;
+                }
+                else{
+                    // link todo
+                    pred->right=NULL;
+                    curr=curr->right;
+                }
             }
         }
 
