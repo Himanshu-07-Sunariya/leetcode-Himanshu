@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0493-reverse-pairs) |
 | [0542-01-matrix](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0994-rotting-oranges) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0493-reverse-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -172,4 +174,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+## Binary Search
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
