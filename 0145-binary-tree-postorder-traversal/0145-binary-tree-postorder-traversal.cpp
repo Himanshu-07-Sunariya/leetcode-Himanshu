@@ -13,34 +13,40 @@ class Solution {
 public:
     vector<int> postorderTraversal(TreeNode* root) {
         if(!root) return {};
-        // two stack
-        stack <TreeNode*> st1;
-        stack <TreeNode*> st2;
+        // one stack
+        stack <TreeNode*> st;
+        TreeNode* curr=root;
         vector <int> ans;
 
-        st1.push(root);
-
-        while(!st1.empty()){
-            auto curr=st1.top();
-            st1.pop();
-
-            st2.push(curr);
-
-            // nbr work
-            if(curr->left){
-                st1.push(curr->left);
+        while(!st.empty() || curr!=NULL){
+            // go to the extreme left
+            if(curr!=NULL){
+                st.push(curr);
+                curr=curr->left;
             }
+            else{
+                TreeNode* temp=st.top()->right;
 
-            if(curr->right){
-                st1.push(curr->right);
+                // if it doesn't have right
+                if(temp==NULL){
+                    temp=st.top();
+                    st.pop();
+
+                    ans.push_back(temp->val);
+
+                    // just right waale k kaam kra tha
+                    while(!st.empty() && temp==st.top()->right){
+                        temp=st.top();
+                        st.pop();
+
+                        ans.push_back(temp->val);
+                    }
+                }
+                else{
+                    // go one right and then extreme left for it
+                    curr=temp;
+                }
             }
-        }
-
-        while(!st2.empty()){
-            auto curr=st2.top();
-            st2.pop();
-
-            ans.push_back(curr->val);
         }
 
         return ans;
