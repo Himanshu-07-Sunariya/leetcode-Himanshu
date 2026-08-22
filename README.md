@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0145-binary-tree-postorder-traversal) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/1971-find-if-path-exists-in-graph) |
 | [3310-remove-methods-from-project](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/3310-remove-methods-from-project) |
@@ -171,11 +172,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0145-binary-tree-postorder-traversal) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0145-binary-tree-postorder-traversal) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Binary Search
 |  |
@@ -205,4 +208,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
