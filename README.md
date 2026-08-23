@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/1971-find-if-path-exists-in-graph) |
 | [3310-remove-methods-from-project](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0542-01-matrix) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/1971-find-if-path-exists-in-graph) |
 | [3310-remove-methods-from-project](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/3310-remove-methods-from-project) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0169-majority-element) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0997-find-the-town-judge) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0169-majority-element) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Quicksort
 |  |
 | ------- |
@@ -189,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -201,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search
 |  |
 | ------- |
