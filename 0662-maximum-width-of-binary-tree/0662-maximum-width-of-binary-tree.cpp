@@ -12,14 +12,14 @@
 class Solution {
 public:
     int widthOfBinaryTree(TreeNode* root) {
+        // base case
         if(!root) return 0;
 
-        // CBT method
-        // indexing method but with bfs for level order
         queue <pair<TreeNode*,unsigned long long>> q;
-        q.push({root,0});
 
         unsigned long long maxWidth=0;
+
+        q.push({root,0});
 
         while(!q.empty()){
             int sz=q.size();
@@ -27,6 +27,7 @@ public:
             unsigned long long lastIdx=-1;
 
             for(int i=0; i<sz; i++){
+                // curr node
                 auto curr=q.front();
                 q.pop();
 
@@ -48,6 +49,6 @@ public:
             maxWidth=max(maxWidth,lastIdx-startIdx+1);
         }
 
-        return (int)maxWidth;
+        return maxWidth;
     }
 };
