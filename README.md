@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0044-wildcard-matching](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0044-wildcard-matching) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Greedy
 |  |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Manacher
 |  |
