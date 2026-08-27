@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0044-wildcard-matching) |
+| [0058-length-of-last-word](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0058-length-of-last-word) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Greedy
