@@ -16,13 +16,13 @@ public:
         if(!root && !subRoot) return true;
         if(!root || !subRoot) return false;
 
+        // selfwork + recursive calls
         return (root->val==subRoot->val)&&compare(root->left,subRoot->left)&&compare(root->right,subRoot->right);
     }
 
     bool isSubtree(TreeNode* root, TreeNode* subRoot) {
-        // find
-        // is same
-        if(root==NULL) return false;
+        // base case
+        if(!root) return false;
 
         bool ans=false;
         if(root->val==subRoot->val){
