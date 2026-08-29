@@ -12,28 +12,30 @@
 class Solution {
 public:
     int maxLen=0;
+
     void helper(TreeNode* root,string dir,int len){
         // base case
         if(!root) return;
 
-        // main work
+        // recursive calls + selfwork
         maxLen=max(maxLen,len);
 
         if(dir=="left"){
-            // continuation
+            // continue zigzag
             helper(root->right,"right",len+1);
 
-            // not continued
+            // no zigzag
             helper(root->left,"left",1);
         }
         else{
-            // continuation
+            // continued zigzag
             helper(root->left,"left",len+1);
 
-            // not continued
+            // no zigzag
             helper(root->right,"right",1);
         }
     }
+
     int longestZigZag(TreeNode* root) {
         if(!root) return 0;
 
