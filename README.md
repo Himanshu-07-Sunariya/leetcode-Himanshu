@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0951-flip-equivalent-binary-trees](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0951-flip-equivalent-binary-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0993-cousins-in-binary-tree) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/1971-find-if-path-exists-in-graph) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0993-cousins-in-binary-tree) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Binary Tree
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/0993-cousins-in-binary-tree) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Himanshu-07-Sunariya/leetcode-Himanshu/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Binary Search
